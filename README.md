@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TDreamz
 - 👀 I’m interested in Anything That Good For Me
-- 🌱 I’m currently learning Lua, Html, css, JavaScript
+- 🌱 I’m currently learning Javascript, Python, C++, PHP
 - 💞️ I’m looking to collaborate on Anyone
-- 📫 How to reach me? Dm Me on Discord At DREAMZ#8508
+- 📫 How to reach me? Dm Me on Discord At DREAMZ#4399
