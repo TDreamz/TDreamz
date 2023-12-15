@@ -6,11 +6,30 @@
 - 📫 How to reach me? DM me on Discord at DREAMZ#4399
 
 ## 🔧 Technologies & Tools
+### JavaScript
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+```javascript
+const js = 'JavaScript';
+console.log(`Currently mastering ${js}`);
+
+python_skills = ['Python', 'Django', 'Flask'];
+for skill in python_skills:
+    print(f'Learning {skill}')
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Currently diving into C++" << endl;
+    return 0;
+}
+
+
+<?php
+$php = 'PHP';
+echo "Exploring the world of $php";
+?>
+```
 
 ## 🚀 My GitHub Stats
 
