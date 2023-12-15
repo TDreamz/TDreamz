@@ -11,11 +11,17 @@
 ```javascript
 const js = 'JavaScript';
 console.log(`Currently mastering ${js}`);
+```
+### Python
 
+```python 
 python_skills = ['Python', 'Django', 'Flask'];
 for skill in python_skills:
     print(f'Learning {skill}')
+```
+### C++
 
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -23,8 +29,10 @@ int main() {
     cout << "Currently diving into C++" << endl;
     return 0;
 }
+```
+### PHP
 
-
+```php
 <?php
 $php = 'PHP';
 echo "Exploring the world of $php";
@@ -35,16 +43,7 @@ echo "Exploring the world of $php";
 
 [![TDreamz's GitHub stats](https://github-readme-stats.vercel.app/api?username=TDreamz&show_icons=true&theme=radical)](https://github.com/TDreamz)
 
-## 📌 Recent Projects
-
-- [Project 1](https://github.com/TDreamz/project1)
-- [Project 2](https://github.com/TDreamz/project2)
-
-## 🎉 Fun Facts
-
-- I believe in continuous learning and growth 🌱
-- Open to collaborations and new opportunities 🤝
-- Let's connect on Discord and chat about tech or anything interesting! 💬
+## Let's connect on Discord and chat about tech or anything interesting! 💬
 
 [![Discord](https://img.shields.io/badge/Discord-DREAMZ%234399-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/your-discord-id)
 
