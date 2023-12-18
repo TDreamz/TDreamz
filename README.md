@@ -45,5 +45,5 @@ echo "Exploring the world of $php";
 
 ## Let's connect on Discord and chat about tech or anything interesting! 💬
 
-[![Discord](https://img.shields.io/badge/Discord-DREAMZ%234399-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/your-discord-id)
+[![Discord](https://img.shields.io/badge/Discord-DREAMZ%234399-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/DREAMZ#4399)
 
